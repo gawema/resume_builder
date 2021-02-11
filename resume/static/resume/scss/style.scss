@@ -45,7 +45,7 @@ h1{
   background: white;
   width: 100vw;
   max-width: $container-width;
-  height: 56vh;
+  height: 73vh;
   min-height: $container-height;
   margin-top: 10%;
   box-shadow: $box-shadow-1;
@@ -89,6 +89,7 @@ h1{
       font-family: $h2-font;
       color: white;
       margin: 0;
+      font-size: inherit;
     }
 
   }

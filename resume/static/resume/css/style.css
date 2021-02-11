@@ -39,7 +39,7 @@ h1 {
   background: white;
   width: 100vw;
   max-width: 540px;
-  height: 56vh;
+  height: 73vh;
   min-height: 420px;
   margin-top: 10%;
   box-shadow: 2px 5px 20px rgba(119, 119, 119, 0.5);
@@ -85,6 +85,7 @@ h1 {
   font-family: "Roboto", sans-serif;
   color: white;
   margin: 0;
+  font-size: inherit;
 }
 
 .container .menubar {
